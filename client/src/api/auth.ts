@@ -5,6 +5,7 @@ const API = axios.create({ baseURL: '/users' });
 
 export async function googleAuth(authInfo: GoogleLoginResponse | GoogleLoginResponseOffline) {
     const res = await API.post<GoogleAuthInfo>('/signin', authInfo);
+    localStorage.setItem('auth', res.data.tokenId);
     localStorage.setItem('profile', JSON.stringify(res.data));
     return res.data;
 
