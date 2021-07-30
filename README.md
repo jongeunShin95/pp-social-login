@@ -20,7 +20,9 @@ node, react, mongodb로 OAuth를 이용해 소셜로그인 구현해보기
 * 로그인 유무에 따라 api 호출 테스트 완료<br />
 
 로그인 x<br />
+---
 <img src="https://user-images.githubusercontent.com/20867824/127691188-889ddeff-5620-4c68-9731-3a8268c33434.png">
 
 로그인 o<br />
+---
 <img src="https://user-images.githubusercontent.com/20867824/127691374-a2f3a3c4-eee6-47b8-94e1-7dc2e03dd7a3.png">
