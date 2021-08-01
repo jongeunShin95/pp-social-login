@@ -24,7 +24,7 @@ node, react, mongodb로 OAuth를 이용해 소셜로그인 구현해보기
 <img src="https://user-images.githubusercontent.com/20867824/127691188-889ddeff-5620-4c68-9731-3a8268c33434.png">
 
 로그인 o<br />
-<<<<<<< HEAD
+---
 <img src="https://user-images.githubusercontent.com/20867824/127691374-a2f3a3c4-eee6-47b8-94e1-7dc2e03dd7a3.png">
 
 # &#10004; 0801(완료)
